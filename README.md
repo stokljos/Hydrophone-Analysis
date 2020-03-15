@@ -4,7 +4,7 @@ Code URL: https://github.com/stokljos/Hydrophone-Analysis/blob/master/Project_4_
 
 Introduction:
 
-	For the first part of the project, the raw data of the Oregon shelf cabled Benthic and Oregon Offshore Cabled Benthic 
+  For the first part of the project, the raw data of the Oregon shelf cabled Benthic and Oregon Offshore Cabled Benthic 
   Experimental Packages were analyzed. Four time periods were used: 1) When it does not rain nor windy, 2) when it was rainy and windy, 
   3) when it rains and is not windy, and 4) when it rains and it is windy. The power spectral density was calculated for each of the 
   times and compared to the frequency of each periods. The power spectral density is used to characterize broadband random signals. 
