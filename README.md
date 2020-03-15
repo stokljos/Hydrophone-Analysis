@@ -63,7 +63,7 @@ highest below 20 Hz on the graph.
 
 Conclusion:
 
-	Overall it is interesting to see how noise travels and is affected by the ocean. It makes sense that rain effects 
+  Overall it is interesting to see how noise travels and is affected by the ocean. It makes sense that rain effects 
   the noise underwater more than wind because rain is physically penetrating the ocean surface causing a larger signal 
   to travel through. It is interesting to see how the frequencies of mammals and airguns and earthquakes are shown at 
   different levels and knowing how to pinpoint them because you know what frequency to look at.
